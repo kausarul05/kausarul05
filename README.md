@@ -3,11 +3,15 @@
 - 🔭 I’m currently working on Web Development Project
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on Web Development Project
-- 💬 Ask me about Web Development Project
-- 📫 How to reach me: Linkedin : "md-kauserul-islam"
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love Coding
+- 💬 Ask me about Web Development, Frontend & Backend Technologies
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have a passion for coding and love building scalable web applications!
 
+About Me
+
+Hi, I'm Md Kauserul Islam, a passionate Web Developer with expertise in JavaScript, React, Node.js, and MongoDB. I enjoy building scalable, efficient, and user-friendly web applications. Currently, I’m working on a Web Development Project while enhancing my skills in TypeScript.
+I love collaborating with developers, sharing knowledge, and working on innovative projects that solve real-world problems. Whether it's frontend development with React and Tailwind CSS or backend development with Node.js and MongoDB, I'm always eager to learn and grow.
+📫 Feel free to connect with me on LinkedIn. Let’s build something amazing together!
 
 
 ## 🌐 Socials:
